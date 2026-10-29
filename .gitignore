@@ -1,0 +1,18 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+~$*
+
+# Video editing cache
+*.pek
+*.cfa
+.sync/
+Auto-Save/
+
+# Obsidian local cache (if opened)
+.obsidian/
